@@ -128,7 +128,7 @@ $('#homepageLink').click(function (event) {
     blogs.forEach(element => {
         displayblogList(element);
     });
-    $('#pageTitle').text('Javascript Test');
+    $('#pageTitle').text('Blog App');
 });
 
 postStuff.click(function (event) {
