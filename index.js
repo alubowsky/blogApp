@@ -1,4 +1,3 @@
-import $ from 'jquery';
 const list = $('#list'),
     page_size = 3,
     postStuff = $('.postStuff'),
